@@ -4,7 +4,7 @@
   "description": "Express, Node, and Middleware: Create REST app",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'merhaba dunya'"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
